@@ -1,0 +1,2 @@
+TOKEN = '7809981045:AAGPrhOiVeePyS-Xx8qRqGYnvI3Ok6LDilQ'
+DATABASE_PATH = 'database.db'
